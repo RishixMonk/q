@@ -44,9 +44,9 @@ function Blog({item}) {
           </span>
         </div>
         {/* <span className="postTitle">
-          <Link to="/post/abc" className="link">
+          < to="/post/abc" className="link">
             Lorem ipsum dolor sit amet
-          </Link>
+        
         </span> */}
         <hr />
         {/* <span className="postDate">1 hour ago</span> */}
